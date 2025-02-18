@@ -58,4 +58,6 @@ tensorboard --logdir=logs/fit
 [Damodar Ediga
 700755572
 CRN:23849]
+Video Link:
+
 
