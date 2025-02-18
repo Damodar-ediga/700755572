@@ -59,5 +59,6 @@ tensorboard --logdir=logs/fit
 700755572
 CRN:23849]
 Video Link:
+https://drive.google.com/file/d/1X7GrLiVmW5kIImhhdJUkEvA9iaanMHqA/view?usp=share_link
 
 
